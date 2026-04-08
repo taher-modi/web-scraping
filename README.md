@@ -8,7 +8,7 @@
 
 # \## Sessions
 
-# \- \[ ] Session 1 — Python Requests + BeautifulSoup Basics
+# \- \[x] Session 1 — Python Requests + BeautifulSoup Basics ✅
 
 # \- \[ ] Session 2 — Hierarchical Data Extraction
 

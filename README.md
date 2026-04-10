@@ -12,7 +12,7 @@
 
 #### \- \[x] Session 2 — Hierarchical Data Extraction ✅
 
-#### \- \[ ] Session 3 — Data Cleaning with Pandas
+#### \- \[x] Session 3 — Data Cleaning with Pandas ✅
 
 #### \- \[ ] Session 4 — APIs, Headers and Proxies
 

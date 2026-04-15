@@ -14,7 +14,7 @@
 
 #### \- \[x] Session 3 — Data Cleaning with Pandas ✅
 
-#### \- \[ ] Session 4 — APIs, Headers and Proxies
+#### \- \[x] Session 4 — APIs, Headers and Proxies ✅
 
 #### \- \[ ] Session 5 — Selenium for JS Pages
 

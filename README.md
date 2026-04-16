@@ -18,7 +18,7 @@
 
 #### \- \[x] Session 5 — Selenium for JS Pages ✅
 
-#### \- \[ ] Session 6 — Playwright and AJAX
+#### \- \[x] Session 6 — Playwright and AJAX ✅
 
 #### \- \[ ] Session 7 — Apify Platform
 

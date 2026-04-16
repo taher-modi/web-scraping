@@ -16,7 +16,7 @@
 
 #### \- \[x] Session 4 — APIs, Headers and Proxies ✅
 
-#### \- \[ ] Session 5 — Selenium for JS Pages
+#### \- \[x] Session 5 — Selenium for JS Pages ✅
 
 #### \- \[ ] Session 6 — Playwright and AJAX
 
